@@ -111,7 +111,7 @@ Polka-Scope provides:
 
 ```bash
 # Clone the repository
-git clone https://github.com/[your-org]/polka-scope.git
+git clone https://github.com/duckrwx/polka-scope.git
 cd polka-scope
 
 # Build the project
