@@ -405,12 +405,6 @@ With 1,000 validators using Polka-Scope:
 - [TLA+ Website](https://lamport.azurewebsites.net/tla/tla.html)
 - [AWS & TLA+](https://lamport.azurewebsites.net/tla/amazon.html)
 
-### Community
-- [Discord](https://discord.gg/your-server)
-- [Telegram](https://t.me/your-channel)
-- [Twitter](https://twitter.com/your-handle)
-- [Forum](https://forum.polkadot.network/)
-
 ---
 
 ## 📄 License
@@ -444,15 +438,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 💬 Contact
 
-**Maintainer**: [Your Name]
-- GitHub: [@your-github](https://github.com/your-github)
-- Email: your-email@example.com
-- Twitter: [@your-twitter](https://twitter.com/your-twitter)
+**Maintainer**: [Paulo Vilarins]
+- GitHub: [@duckrwx](https://github.com/duckrwx)
+- Email: vilarins.unb@gmail.coom
+- Linkedin: https://www.linkedin.com/in/paulo-vilarins/
 
 **Project Links**:
-- Repository: https://github.com/your-org/polka-scope
-- Issues: https://github.com/your-org/polka-scope/issues
-- Discussions: https://github.com/your-org/polka-scope/discussions
+- Repository: https://github.com/duckrwx/polka-scope
+- Issues: https://github.com/duckrwx/polka-scope/issues
+
 
 ---
 
@@ -462,8 +456,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ **Star us on GitHub** — it helps!
 
-[Report Bug](https://github.com/your-org/polka-scope/issues) · 
-[Request Feature](https://github.com/your-org/polka-scope/issues) · 
-[Join Discord](https://discord.gg/your-server)
+[Report Bug](https://github.com/duckrwx/polka-scope/issues) · 
+[Request Feature](https://github.com/duckrwx/polka-scope/issues) · 
 
 </div>
